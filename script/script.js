@@ -56,47 +56,47 @@ function burgerMenu() {
 
 const cards = [
   {
-    img: '../img/top1.jpg',
+    img: './img/top1.jpg',
     title:'Tray with Foot',
     price:'30$'
   },
   {
-    img: '../img/top2.jpg',
+    img: './img/top2.jpg',
     title:'Twill Seat Cushion',
     price:'33$'
   },
   {
-    img: '../img/top3.jpg',
+    img: './img/top3.jpg',
     title:'Fluted Beverage Glass',
     price:'55$'
   },
   {
-    img: '../img/top4.jpg',
+    img: './img/top4.jpg',
     title:'Ceramic Egg Cup',
     price:'29$'
   },
   {
-    img: '../img/top5.jpg',
+    img: './img/top5.jpg',
     title:'Small Bamboo Box',
     price:'35$'
   },
   {
-    img: '../img/top6.jpg',
+    img: './img/top6.jpg',
     title:'Metal Cutlery Basket',
     price:'50$'
   },
   {
-    img: '../img/top7.jpg',
+    img: './img/top7.jpg',
     title:'4-pack Ceramic Cups',
     price:'48$'
   },
   {
-    img: '../img/top8.jpg',
+    img: './img/top8.jpg',
     title:'2-pack Linen Napkins',
     price:'21$'
   },
   {
-    img: '../img/top9.jpg',
+    img: './img/top9.jpg',
     title:'Glazed Stoneware Plate',
     price:'50$'
   },
